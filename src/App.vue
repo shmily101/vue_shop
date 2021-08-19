@@ -12,6 +12,7 @@ export default {
   name: 'app',
   components: {
     HelloWorld
+	HelloVue
   }
 }
 </script>
